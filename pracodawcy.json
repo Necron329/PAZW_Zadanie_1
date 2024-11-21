@@ -1,0 +1,32 @@
+{
+    "pracodawcy": [
+      {
+        "imie": "Jan",
+        "nazwisko": "Kowalski",
+        "info": {
+          "telefon": "123-456-789",
+          "email": "jan.kowalski@example.com",
+          "wiek": 45
+        }
+      },
+      {
+        "imie": "Anna",
+        "nazwisko": "Nowak",
+        "info": {
+          "telefon": "987-654-321",
+          "email": "anna.nowak@example.com",
+          "wiek": 38
+        }
+      },
+      {
+        "imie": "Piotr",
+        "nazwisko": "Wiśniewski",
+        "info": {
+          "telefon": "555-123-456",
+          "email": "piotr.wisniewski@example.com",
+          "wiek": 50
+        }
+      }
+    ]
+  }
+  

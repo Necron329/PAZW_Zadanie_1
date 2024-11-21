@@ -1,0 +1,9 @@
+Blackbox.AI:
+-how to change background color and text color in boostrap
+-create a centered container that is in the middle of screen
+-how to set public folder and index.html in it in node js express
+-how to use make so when i submit a form, it uses a post method, it calls a function in node js
+-how to use find function on a json and find it by lastname
+
+ChatGPT:
+-wygeneruj mi plik JSON, składa się z pracodawców a w nim są pracodawcy, ich imie, nazwisko i info w info znajduje się telefon, email oraz wiek
